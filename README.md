@@ -7,9 +7,9 @@ de git, lo que si me disguta mucho es quimica, pero es porque a mi nunca me ha g
 
 ## Codigos que he aprendido:
 Hay muchos codigos que he aprendido durante estos meses en la carrera, sobre todo porque jamas habia programado en python, los siguientes codigos que les mostrare se usan mucho en lo que hemos visto durante la carrera: :rofl: 
-`if` sirve para comprobar una funcion.
-`while` es un ciclo que repite una accion determinadas veces.
-`break` sirve para romper a mano el ciclo while. 
+    - `if` sirve para comprobar una funcion.
+    - `while` es un ciclo que repite una accion determinadas veces.
+    - `break` sirve para romper a mano el ciclo while. 
 
 ## Mis compañeros de carrera:
 @Crono19
