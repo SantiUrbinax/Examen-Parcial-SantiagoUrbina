@@ -17,11 +17,11 @@ Hay muchos codigos que he aprendido durante estos meses en la carrera, sobre tod
 
 ## Lista de mis cosas favoritas de las carreras:
 1. Dentro de los parametros universitarios
-- Aprender cada dia mas acerca de lo que me gusta.
-- Sentirme alguien util en esta vida.
-- Saber que puedo tener un gran futuro.
+    - Aprender cada dia mas acerca de lo que me gusta.
+    - Sentirme alguien util en esta vida.
+    - Saber que puedo tener un gran futuro.
 
 2. Fuera de los parametros universitarios.
-- Hacer nuevos amigos.
-- Los ingenieros son muy amables y buenas personas.
-- Conocer chicas nueva.
+    - Hacer nuevos amigos.
+    - Los ingenieros son muy amables y buenas personas.
+    - Conocer chicas nueva.
